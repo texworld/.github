@@ -13,7 +13,7 @@ _personal_ or _academic_ use can be purchased
 confirmation email with a license key. Install the key with
 
 ```
-plm add <your-license-key>
+slim add <your-license-key>
 ```
 
 on your machine and you're good to go.
