@@ -7,9 +7,8 @@
 TeX World is a collection of Python libraries and command-line tools for
 \*TeX.
 
-Full access to all TeX World functionality requires a license. Licenses for
-_personal_ or _academic_ use can be purchased
-[here](https://buy.stripe.com/aEU7vb9xc870f1mbIL). You'll receive a
+Full access to all TeX World functionality requires a license. Licenses can be purchased
+[here](https://mondaytech.com/texworld/license/). You'll receive a
 confirmation email with a license key. Install the key with
 
 ```
@@ -17,5 +16,3 @@ slim add <your-license-key>
 ```
 
 on your machine and you're good to go.
-
-For _commerical_ use, please contact support@mondaytech.com.
